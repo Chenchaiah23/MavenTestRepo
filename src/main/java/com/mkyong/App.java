@@ -12,7 +12,7 @@ public class App
     public static void main( String[] args )
     {
         App obj = new App();
-        System.out.println("Unique id ID1121 : " + obj.generateUniqueKey());
+        System.out.println("Unique id1 ID1121 : " + obj.generateUniqueKey());
     }
     
     public String generateUniqueKey(){
